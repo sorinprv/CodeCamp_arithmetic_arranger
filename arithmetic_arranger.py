@@ -64,3 +64,6 @@ def arithmetic_arranger(problems, answer=False):
     else:
         arranged_problems = "    ".join(first_line) + "\n" + "    ".join(second_line) + "\n" + "    ".join(third_line)
     return arranged_problems
+
+
+
